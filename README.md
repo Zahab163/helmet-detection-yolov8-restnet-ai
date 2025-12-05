@@ -14,7 +14,8 @@ Helmet detection is more than just a technical exercise — it reflects my abili
 - **ResNet** for comparative classification  
 - Early stopping & checkpointing integrated into training workflows  
 - Clean, modular scripts for reproducibility  
-- Visualizations: training curves, confusion matrices, detection samples  
+- Visualizations: training curves, confusion matrices, detection samples
+- Tools: Python, YOLOv8, OpenCV, PyTorch.
 
 ---
 
